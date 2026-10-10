@@ -3,3 +3,4 @@
 Vinicius/Ciencia da Computação; 
 Erick/Ciencia da Computação; 
 Elida/Ciencia da Computação; 
+.
